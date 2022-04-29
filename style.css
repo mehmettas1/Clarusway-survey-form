@@ -1,0 +1,24 @@
+h1, p {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+body {
+    font-family: comic-sns;
+    font-size: 1rem;
+    align: center;
+    font-weight: 200;
+    line-height: 1.5;
+    color: var(--color-white);
+    position: center;
